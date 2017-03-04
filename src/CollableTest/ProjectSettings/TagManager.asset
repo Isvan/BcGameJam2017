@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - image_happy
+  - image_sad
+  - image_combo
+  - GameObjectTarget
+  - pauseable
+  - image_totalscore
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: outline
+    uniqueID: 3001814481
+    locked: 0
+  - name: fill
+    uniqueID: 3931194625
+    locked: 0
+  - name: Hp BarBack
+    uniqueID: 2327788981
+    locked: 0
+  - name: Hp BarFront
+    uniqueID: 1343939223
+    locked: 0
+  - name: Hp Heart
+    uniqueID: 4008462085
+    locked: 0
